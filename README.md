@@ -1,7 +1,3 @@
-GitHub Copilot
-
-README — nom-ws-datosempleado-be
-===============================
 
 Resumen
 -------
