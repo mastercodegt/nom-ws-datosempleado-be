@@ -1,0 +1,6 @@
+@nom_ws_datosempleado_be_HostAddress = http://localhost:5088
+
+GET {{nom_ws_datosempleado_be_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
